@@ -1,0 +1,16 @@
+# Secrets - ห้าม commit เด็ดขาด!
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Code Runner temp file
+tempCodeRunnerFile.py
